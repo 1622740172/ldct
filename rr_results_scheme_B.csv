@@ -1,0 +1,109 @@
+Outcome,Group,Subgroup,Comparison,Target_Events,Target_PY,Target_Rate,Ref_Events,Ref_PY,Ref_Rate,RR,CI_Lower,CI_Upper
+Lung cancer incidence,Overall,Overall,High-risk screened vs Low-risk,148,113654,1.3,2178,2206848.6,0.99,1.32,1.12,1.56
+Lung cancer incidence,Overall,Overall,High-risk non-screened vs Low-risk,143,128008.6,1.12,2178,2206848.6,0.99,1.13,0.96,1.34
+Lung cancer incidence,Overall,Overall,High-risk screened vs High-risk non-screened,148,113654,1.3,143,128008.6,1.12,1.17,0.93,1.47
+Lung cancer incidence,Sex,Male,High-risk screened vs Low-risk,2,3615.7,0.55,759,696301.7,1.09,0.51,0.13,2.03
+Lung cancer incidence,Sex,Male,High-risk non-screened vs Low-risk,3,3207.3,0.94,759,696301.7,1.09,0.86,0.28,2.67
+Lung cancer incidence,Sex,Male,High-risk screened vs High-risk non-screened,2,3615.7,0.55,3,3207.3,0.94,0.59,0.1,3.54
+Lung cancer incidence,Sex,Female,High-risk screened vs Low-risk,146,110038.3,1.33,1419,1510546.9,0.94,1.41,1.19,1.67
+Lung cancer incidence,Sex,Female,High-risk non-screened vs Low-risk,140,124801.4,1.12,1419,1510546.9,0.94,1.19,1,1.42
+Lung cancer incidence,Sex,Female,High-risk screened vs High-risk non-screened,146,110038.3,1.33,140,124801.4,1.12,1.18,0.94,1.49
+Lung cancer incidence,Age group,40-49,High-risk screened vs Low-risk,20,23432,0.85,346,736928.2,0.47,1.82,1.16,2.85
+Lung cancer incidence,Age group,40-49,High-risk non-screened vs Low-risk,13,25537.8,0.51,346,736928.2,0.47,1.08,0.62,1.89
+Lung cancer incidence,Age group,40-49,High-risk screened vs High-risk non-screened,20,23432,0.85,13,25537.8,0.51,1.68,0.83,3.37
+Lung cancer incidence,Age group,50-54,High-risk screened vs Low-risk,27,28713.4,0.94,350,420159.7,0.83,1.13,0.76,1.67
+Lung cancer incidence,Age group,50-54,High-risk non-screened vs Low-risk,27,29017.1,0.93,350,420159.7,0.83,1.12,0.76,1.65
+Lung cancer incidence,Age group,50-54,High-risk screened vs High-risk non-screened,27,28713.4,0.94,27,29017.1,0.93,1.01,0.59,1.72
+Lung cancer incidence,Age group,55-74,High-risk screened vs Low-risk,101,61508.5,1.64,1482,1049760.6,1.41,1.16,0.95,1.42
+Lung cancer incidence,Age group,55-74,High-risk non-screened vs Low-risk,103,73453.7,1.4,1482,1049760.6,1.41,0.99,0.81,1.21
+Lung cancer incidence,Age group,55-74,High-risk screened vs High-risk non-screened,101,61508.5,1.64,103,73453.7,1.4,1.17,0.89,1.54
+Lung cancer incidence,Family history,No,High-risk screened vs Low-risk,100,84603.8,1.18,2091,2148318,0.97,1.21,0.99,1.48
+Lung cancer incidence,Family history,No,High-risk non-screened vs Low-risk,109,101778.3,1.07,2091,2148318,0.97,1.1,0.91,1.33
+Lung cancer incidence,Family history,No,High-risk screened vs High-risk non-screened,100,84603.8,1.18,109,101778.3,1.07,1.1,0.84,1.45
+Lung cancer incidence,Family history,Yes,High-risk screened vs Low-risk,48,29050.2,1.65,87,58530.6,1.49,1.11,0.78,1.58
+Lung cancer incidence,Family history,Yes,High-risk non-screened vs Low-risk,34,26230.3,1.3,87,58530.6,1.49,0.87,0.59,1.3
+Lung cancer incidence,Family history,Yes,High-risk screened vs High-risk non-screened,48,29050.2,1.65,34,26230.3,1.3,1.27,0.82,1.98
+Lung cancer incidence,Occupational hazard,No,High-risk screened vs Low-risk,81,69068.4,1.17,1969,1986349.4,0.99,1.18,0.95,1.48
+Lung cancer incidence,Occupational hazard,No,High-risk non-screened vs Low-risk,107,87405.8,1.22,1969,1986349.4,0.99,1.23,1.02,1.5
+Lung cancer incidence,Occupational hazard,No,High-risk screened vs High-risk non-screened,81,69068.4,1.17,107,87405.8,1.22,0.96,0.72,1.28
+Lung cancer incidence,Occupational hazard,Yes,High-risk screened vs Low-risk,67,44585.6,1.5,209,220495.6,0.95,1.59,1.2,2.09
+Lung cancer incidence,Occupational hazard,Yes,High-risk non-screened vs Low-risk,36,40602.8,0.89,209,220495.6,0.95,0.94,0.66,1.33
+Lung cancer incidence,Occupational hazard,Yes,High-risk screened vs High-risk non-screened,67,44585.6,1.5,36,40602.8,0.89,1.69,1.13,2.54
+Lung cancer incidence,Chronic resp. disease,No,High-risk screened vs Low-risk,37,36302.9,1.02,2031,2080954.1,0.98,1.04,0.75,1.45
+Lung cancer incidence,Chronic resp. disease,No,High-risk non-screened vs Low-risk,37,46089.2,0.8,2031,2080954.1,0.98,0.82,0.59,1.14
+Lung cancer incidence,Chronic resp. disease,No,High-risk screened vs High-risk non-screened,37,36302.9,1.02,37,46089.2,0.8,1.27,0.8,2
+Lung cancer incidence,Chronic resp. disease,Yes,High-risk screened vs Low-risk,111,77351.1,1.44,147,125894.5,1.17,1.23,0.96,1.57
+Lung cancer incidence,Chronic resp. disease,Yes,High-risk non-screened vs Low-risk,106,81919.5,1.29,147,125894.5,1.17,1.11,0.86,1.42
+Lung cancer incidence,Chronic resp. disease,Yes,High-risk screened vs High-risk non-screened,111,77351.1,1.44,106,81919.5,1.29,1.11,0.85,1.45
+Lung cancer mortality,Overall,Overall,High-risk screened vs Low-risk,24,114032.1,0.21,593,2206879.1,0.27,0.78,0.52,1.18
+Lung cancer mortality,Overall,Overall,High-risk non-screened vs Low-risk,27,128266.3,0.21,593,2206879.1,0.27,0.78,0.53,1.15
+Lung cancer mortality,Overall,Overall,High-risk screened vs High-risk non-screened,24,114032.1,0.21,27,128266.3,0.21,1,0.58,1.73
+Lung cancer mortality,Sex,Male,High-risk screened vs Low-risk,0,3616.2,0,311,694976.1,0.45,0,,
+Lung cancer mortality,Sex,Male,High-risk non-screened vs Low-risk,0,3206.4,0,311,694976.1,0.45,0,,
+Lung cancer mortality,Sex,Male,High-risk screened vs High-risk non-screened,0,3616.2,0,0,3206.4,0,,,
+Lung cancer mortality,Sex,Female,High-risk screened vs Low-risk,24,110416,0.22,282,1511903,0.19,1.17,0.77,1.77
+Lung cancer mortality,Sex,Female,High-risk non-screened vs Low-risk,27,125059.9,0.22,282,1511903,0.19,1.16,0.78,1.72
+Lung cancer mortality,Sex,Female,High-risk screened vs High-risk non-screened,24,110416,0.22,27,125059.9,0.22,1.01,0.58,1.74
+Lung cancer mortality,Age group,40-49,High-risk screened vs Low-risk,1,23488.7,0.04,44,737300.9,0.06,0.71,0.1,5.18
+Lung cancer mortality,Age group,40-49,High-risk non-screened vs Low-risk,1,25558.7,0.04,44,737300.9,0.06,0.66,0.09,4.76
+Lung cancer mortality,Age group,40-49,High-risk screened vs High-risk non-screened,1,23488.7,0.04,1,25558.7,0.04,1.09,0.07,17.4
+Lung cancer mortality,Age group,50-54,High-risk screened vs Low-risk,3,28815.7,0.1,66,420537.4,0.16,0.66,0.21,2.11
+Lung cancer mortality,Age group,50-54,High-risk non-screened vs Low-risk,7,29095.6,0.24,66,420537.4,0.16,1.53,0.7,3.34
+Lung cancer mortality,Age group,50-54,High-risk screened vs High-risk non-screened,3,28815.7,0.1,7,29095.6,0.24,0.43,0.11,1.67
+Lung cancer mortality,Age group,55-74,High-risk screened vs Low-risk,20,61727.7,0.32,483,1049040.8,0.46,0.7,0.45,1.1
+Lung cancer mortality,Age group,55-74,High-risk non-screened vs Low-risk,19,73612,0.26,483,1049040.8,0.46,0.56,0.35,0.89
+Lung cancer mortality,Age group,55-74,High-risk screened vs High-risk non-screened,20,61727.7,0.32,19,73612,0.26,1.26,0.67,2.35
+Lung cancer mortality,Family history,No,High-risk screened vs Low-risk,20,84843.9,0.24,571,2148178.6,0.27,0.89,0.57,1.39
+Lung cancer mortality,Family history,No,High-risk non-screened vs Low-risk,17,101968.1,0.17,571,2148178.6,0.27,0.63,0.39,1.02
+Lung cancer mortality,Family history,No,High-risk screened vs High-risk non-screened,20,84843.9,0.24,17,101968.1,0.17,1.41,0.74,2.7
+Lung cancer mortality,Family history,Yes,High-risk screened vs Low-risk,4,29188.3,0.14,22,58700.5,0.37,0.37,0.13,1.06
+Lung cancer mortality,Family history,Yes,High-risk non-screened vs Low-risk,10,26298.2,0.38,22,58700.5,0.37,1.01,0.48,2.14
+Lung cancer mortality,Family history,Yes,High-risk screened vs High-risk non-screened,4,29188.3,0.14,10,26298.2,0.38,0.36,0.11,1.15
+Lung cancer mortality,Occupational hazard,No,High-risk screened vs Low-risk,14,69283.6,0.2,541,1986225.7,0.27,0.74,0.44,1.26
+Lung cancer mortality,Occupational hazard,No,High-risk non-screened vs Low-risk,22,87604,0.25,541,1986225.7,0.27,0.92,0.6,1.41
+Lung cancer mortality,Occupational hazard,No,High-risk screened vs High-risk non-screened,14,69283.6,0.2,22,87604,0.25,0.8,0.41,1.57
+Lung cancer mortality,Occupational hazard,Yes,High-risk screened vs Low-risk,10,44748.6,0.22,52,220649.8,0.24,0.95,0.48,1.87
+Lung cancer mortality,Occupational hazard,Yes,High-risk non-screened vs Low-risk,5,40662.3,0.12,52,220649.8,0.24,0.52,0.21,1.31
+Lung cancer mortality,Occupational hazard,Yes,High-risk screened vs High-risk non-screened,10,44748.6,0.22,5,40662.3,0.12,1.82,0.62,5.32
+Lung cancer mortality,Chronic resp. disease,No,High-risk screened vs Low-risk,2,36402.4,0.05,551,2080937.1,0.26,0.21,0.05,0.83
+Lung cancer mortality,Chronic resp. disease,No,High-risk non-screened vs Low-risk,8,46166.2,0.17,551,2080937.1,0.26,0.65,0.33,1.32
+Lung cancer mortality,Chronic resp. disease,No,High-risk screened vs High-risk non-screened,2,36402.4,0.05,8,46166.2,0.17,0.32,0.07,1.49
+Lung cancer mortality,Chronic resp. disease,Yes,High-risk screened vs Low-risk,22,77629.7,0.28,42,125942,0.33,0.85,0.51,1.42
+Lung cancer mortality,Chronic resp. disease,Yes,High-risk non-screened vs Low-risk,19,82100.1,0.23,42,125942,0.33,0.69,0.4,1.19
+Lung cancer mortality,Chronic resp. disease,Yes,High-risk screened vs High-risk non-screened,22,77629.7,0.28,19,82100.1,0.23,1.22,0.66,2.26
+All-cause mortality,Overall,Overall,High-risk screened vs Low-risk,69,114032.1,0.61,2154,2206879.1,0.98,0.62,0.49,0.79
+All-cause mortality,Overall,Overall,High-risk non-screened vs Low-risk,78,128266.3,0.61,2154,2206879.1,0.98,0.62,0.5,0.78
+All-cause mortality,Overall,Overall,High-risk screened vs High-risk non-screened,69,114032.1,0.61,78,128266.3,0.61,1,0.72,1.38
+All-cause mortality,Sex,Male,High-risk screened vs Low-risk,2,3616.2,0.55,1077,694976.1,1.55,0.36,0.09,1.43
+All-cause mortality,Sex,Male,High-risk non-screened vs Low-risk,3,3206.4,0.94,1077,694976.1,1.55,0.6,0.19,1.87
+All-cause mortality,Sex,Male,High-risk screened vs High-risk non-screened,2,3616.2,0.55,3,3206.4,0.94,0.59,0.1,3.54
+All-cause mortality,Sex,Female,High-risk screened vs Low-risk,67,110416,0.61,1077,1511903,0.71,0.85,0.67,1.09
+All-cause mortality,Sex,Female,High-risk non-screened vs Low-risk,75,125059.9,0.6,1077,1511903,0.71,0.84,0.67,1.06
+All-cause mortality,Sex,Female,High-risk screened vs High-risk non-screened,67,110416,0.61,75,125059.9,0.6,1.01,0.73,1.41
+All-cause mortality,Age group,40-49,High-risk screened vs Low-risk,4,23488.7,0.17,220,737300.9,0.3,0.57,0.21,1.53
+All-cause mortality,Age group,40-49,High-risk non-screened vs Low-risk,4,25558.7,0.16,220,737300.9,0.3,0.52,0.2,1.41
+All-cause mortality,Age group,40-49,High-risk screened vs High-risk non-screened,4,23488.7,0.17,4,25558.7,0.16,1.09,0.27,4.35
+All-cause mortality,Age group,50-54,High-risk screened vs Low-risk,11,28815.7,0.38,269,420537.4,0.64,0.6,0.33,1.09
+All-cause mortality,Age group,50-54,High-risk non-screened vs Low-risk,14,29095.6,0.48,269,420537.4,0.64,0.75,0.44,1.29
+All-cause mortality,Age group,50-54,High-risk screened vs High-risk non-screened,11,28815.7,0.38,14,29095.6,0.48,0.79,0.36,1.75
+All-cause mortality,Age group,55-74,High-risk screened vs Low-risk,54,61727.7,0.87,1665,1049040.8,1.59,0.55,0.42,0.72
+All-cause mortality,Age group,55-74,High-risk non-screened vs Low-risk,60,73612,0.82,1665,1049040.8,1.59,0.51,0.4,0.66
+All-cause mortality,Age group,55-74,High-risk screened vs High-risk non-screened,54,61727.7,0.87,60,73612,0.82,1.07,0.74,1.55
+All-cause mortality,Family history,No,High-risk screened vs Low-risk,51,84843.9,0.6,2106,2148178.6,0.98,0.61,0.46,0.81
+All-cause mortality,Family history,No,High-risk non-screened vs Low-risk,54,101968.1,0.53,2106,2148178.6,0.98,0.54,0.41,0.71
+All-cause mortality,Family history,No,High-risk screened vs High-risk non-screened,51,84843.9,0.6,54,101968.1,0.53,1.14,0.77,1.66
+All-cause mortality,Family history,Yes,High-risk screened vs Low-risk,18,29188.3,0.62,48,58700.5,0.82,0.75,0.44,1.3
+All-cause mortality,Family history,Yes,High-risk non-screened vs Low-risk,24,26298.2,0.91,48,58700.5,0.82,1.12,0.68,1.82
+All-cause mortality,Family history,Yes,High-risk screened vs High-risk non-screened,18,29188.3,0.62,24,26298.2,0.91,0.68,0.37,1.25
+All-cause mortality,Occupational hazard,No,High-risk screened vs Low-risk,41,69283.6,0.59,1990,1986225.7,1,0.59,0.43,0.8
+All-cause mortality,Occupational hazard,No,High-risk non-screened vs Low-risk,57,87604,0.65,1990,1986225.7,1,0.65,0.5,0.85
+All-cause mortality,Occupational hazard,No,High-risk screened vs High-risk non-screened,41,69283.6,0.59,57,87604,0.65,0.91,0.61,1.36
+All-cause mortality,Occupational hazard,Yes,High-risk screened vs Low-risk,28,44748.6,0.63,164,220649.8,0.74,0.84,0.56,1.26
+All-cause mortality,Occupational hazard,Yes,High-risk non-screened vs Low-risk,21,40662.3,0.52,164,220649.8,0.74,0.69,0.44,1.09
+All-cause mortality,Occupational hazard,Yes,High-risk screened vs High-risk non-screened,28,44748.6,0.63,21,40662.3,0.52,1.21,0.69,2.13
+All-cause mortality,Chronic resp. disease,No,High-risk screened vs Low-risk,10,36402.4,0.27,2024,2080937.1,0.97,0.28,0.15,0.53
+All-cause mortality,Chronic resp. disease,No,High-risk non-screened vs Low-risk,21,46166.2,0.45,2024,2080937.1,0.97,0.47,0.3,0.72
+All-cause mortality,Chronic resp. disease,No,High-risk screened vs High-risk non-screened,10,36402.4,0.27,21,46166.2,0.45,0.6,0.28,1.28
+All-cause mortality,Chronic resp. disease,Yes,High-risk screened vs Low-risk,59,77629.7,0.76,130,125942,1.03,0.74,0.54,1
+All-cause mortality,Chronic resp. disease,Yes,High-risk non-screened vs Low-risk,57,82100.1,0.69,130,125942,1.03,0.67,0.49,0.92
+All-cause mortality,Chronic resp. disease,Yes,High-risk screened vs High-risk non-screened,59,77629.7,0.76,57,82100.1,0.69,1.09,0.76,1.58
