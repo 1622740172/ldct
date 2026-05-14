@@ -1,0 +1,37 @@
+Outcome,Group,Subgroup,Screened_N,Screened_Events,Unscreened_N,Unscreened_Events,Rate_Screened,Rate_Unscreened,RD,CI_Lower,CI_Upper,P_Value
+Lung cancer incidence,Overall,Overall,16160,148,17606,143,1.3,1.12,0.19,-0.09,0.46,0.192655330146238
+Lung cancer incidence,Sex,Male,697,2,567,3,0.55,0.94,-0.38,-1.69,0.92,0.566492968276596
+Lung cancer incidence,Sex,Female,15463,146,17039,140,1.33,1.12,0.21,-0.08,0.49,0.157575369488289
+Lung cancer incidence,Age group (years),40-49,2648,20,2718,13,0.85,0.51,0.34,-0.12,0.81,0.146760657266614
+Lung cancer incidence,Age group (years),50-54,4232,27,4180,27,0.94,0.93,0.01,-0.49,0.51,0.969163593606154
+Lung cancer incidence,Age group (years),55-74,9280,101,10708,103,1.64,1.4,0.24,-0.18,0.66,0.262416664168088
+Lung cancer incidence,Family history,No,12544,100,14483,109,1.18,1.07,0.11,-0.2,0.42,0.478066975341836
+Lung cancer incidence,Family history,Yes,3616,48,3123,34,1.65,1.3,0.36,-0.28,1,0.274726501314444
+Lung cancer incidence,Occupational hazard,No,10199,81,12511,107,1.17,1.22,-0.05,-0.4,0.29,0.770181441871864
+Lung cancer incidence,Occupational hazard,Yes,5961,67,5095,36,1.5,0.89,0.62,0.15,1.08,0.00894407525621932
+Lung cancer incidence,Chronic respiratory disease,No,6634,37,8197,37,1.02,0.8,0.22,-0.2,0.63,0.310285224443714
+Lung cancer incidence,Chronic respiratory disease,Yes,9526,111,9409,106,1.44,1.29,0.14,-0.22,0.5,0.446574327890256
+Lung cancer mortality,Overall,Overall,16160,24,17606,27,0.21,0.21,0,-0.12,0.12,0.999560391096056
+Lung cancer mortality,Sex,Male,697,0,567,0,0,0,0,0,0,
+Lung cancer mortality,Sex,Female,15463,24,17039,27,0.22,0.22,0,-0.12,0.12,0.980793832000911
+Lung cancer mortality,Age group (years),40-49,2648,1,2718,1,0.04,0.04,0,-0.11,0.12,0.95244844109679
+Lung cancer mortality,Age group (years),50-54,4232,3,4180,7,0.1,0.24,-0.14,-0.35,0.08,0.210557275661286
+Lung cancer mortality,Age group (years),55-74,9280,20,10708,19,0.32,0.26,0.07,-0.12,0.25,0.481296696841918
+Lung cancer mortality,Family history,No,12544,20,14483,17,0.24,0.17,0.07,-0.06,0.2,0.298915175068928
+Lung cancer mortality,Family history,Yes,3616,4,3123,10,0.14,0.38,-0.24,-0.51,0.03,0.078862467099208
+Lung cancer mortality,Occupational hazard,No,10199,14,12511,22,0.2,0.25,-0.05,-0.2,0.1,0.518829829380873
+Lung cancer mortality,Occupational hazard,Yes,5961,10,5095,5,0.22,0.12,0.1,-0.07,0.28,0.261674549542441
+Lung cancer mortality,Chronic respiratory disease,No,6634,2,8197,8,0.05,0.17,-0.12,-0.26,0.02,0.102820421618716
+Lung cancer mortality,Chronic respiratory disease,Yes,9526,22,9409,19,0.28,0.23,0.05,-0.11,0.21,0.518181085311765
+All-cause mortality,Overall,Overall,16160,69,17606,78,0.61,0.61,0,-0.2,0.19,0.975987094626542
+All-cause mortality,Sex,Male,697,2,567,3,0.55,0.94,-0.38,-1.69,0.92,0.566215183593195
+All-cause mortality,Sex,Female,15463,67,17039,75,0.61,0.6,0.01,-0.19,0.21,0.944330138830633
+All-cause mortality,Age group (years),40-49,2648,4,2718,4,0.17,0.16,0.01,-0.21,0.24,0.90506562621562
+All-cause mortality,Age group (years),50-54,4232,11,4180,14,0.38,0.48,-0.1,-0.44,0.24,0.564507034971967
+All-cause mortality,Age group (years),55-74,9280,54,10708,60,0.87,0.82,0.06,-0.25,0.37,0.706992095323809
+All-cause mortality,Family history,No,12544,51,14483,54,0.6,0.53,0.07,-0.15,0.29,0.518601019847724
+All-cause mortality,Family history,Yes,3616,18,3123,24,0.62,0.91,-0.3,-0.76,0.17,0.210422053008979
+All-cause mortality,Occupational hazard,No,10199,41,12511,57,0.59,0.65,-0.06,-0.31,0.19,0.641230618718089
+All-cause mortality,Occupational hazard,Yes,5961,28,5095,21,0.63,0.52,0.11,-0.21,0.43,0.503546253801113
+All-cause mortality,Chronic respiratory disease,No,6634,10,8197,21,0.27,0.45,-0.18,-0.44,0.08,0.17197232239285
+All-cause mortality,Chronic respiratory disease,Yes,9526,59,9409,57,0.76,0.69,0.07,-0.2,0.33,0.626470769686718
