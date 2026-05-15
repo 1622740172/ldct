@@ -1,0 +1,19 @@
+Outcome,group,year,cumulative_rate
+Lung cancer incidence,Non-screened,1,0.06
+Lung cancer incidence,Non-screened,5,0.41
+Lung cancer incidence,Non-screened,10,1.3
+Lung cancer incidence,Screened,1,0.19
+Lung cancer incidence,Screened,5,0.61
+Lung cancer incidence,Screened,10,1.4
+Lung cancer mortality,Non-screened,1,0
+Lung cancer mortality,Non-screened,5,0.05
+Lung cancer mortality,Non-screened,10,0.28
+Lung cancer mortality,Screened,1,0.01
+Lung cancer mortality,Screened,5,0.1
+Lung cancer mortality,Screened,10,0.22
+All-cause mortality,Non-screened,1,0.03
+All-cause mortality,Non-screened,5,0.22
+All-cause mortality,Non-screened,10,0.7
+All-cause mortality,Screened,1,0.03
+All-cause mortality,Screened,5,0.24
+All-cause mortality,Screened,10,0.65
