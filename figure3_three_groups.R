@@ -151,11 +151,11 @@ create_cumulative_plot <- function(aj_result, title_text, y_label, y_max = NULL)
     geom_line(linewidth = 1.5) +
     scale_color_manual(
       values = group_colors,
-      labels = c("Low-risk (as_lc_risk=0)", "Screened (as_lc_risk=1)", "Non-screened (as_lc_risk=2)")
+      labels = c("Low-risk", "Screened", "Non-screened")
     ) +
     scale_linetype_manual(
       values = group_linetypes,
-      labels = c("Low-risk (as_lc_risk=0)", "Screened (as_lc_risk=1)", "Non-screened (as_lc_risk=2)")
+      labels = c("Low-risk", "Screened", "Non-screened")
     ) +
     scale_x_continuous(
       breaks = seq(0, 12, by = 1),
