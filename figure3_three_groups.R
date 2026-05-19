@@ -139,24 +139,13 @@ group_linetypes <- c("Low-risk" = "solid", "Screened" = "dashed", "Non-screened"
 
 create_cumulative_plot <- function(aj_result, title_text, y_label, y_max = NULL) {
   cum_data <- aj_result$curve
-  summary_data <- aj_result$summary
   
   # 确保group是因子且顺序正确
   cum_data$group <- factor(cum_data$group, levels = c("Low-risk", "Screened", "Non-screened"))
-  summary_data$group <- factor(summary_data$group, levels = c("Low-risk", "Screened", "Non-screened"))
   
   if (is.null(y_max)) {
-    y_max <- max(cum_data$cumulative, na.rm = TRUE) * 1.6
+    y_max <- max(cum_data$cumulative, na.rm = TRUE) * 1.3
   }
-  
-  # 准备标注文本（按组显示）
-  label_lines <- c()
-  for (g in levels(summary_data$group)) {
-    sub <- summary_data[summary_data$group == g, ]
-    rates <- paste0(sub$year, "y=", sub$cumulative_rate, "%")
-    label_lines <- c(label_lines, paste0(g, ": ", paste(rates, collapse = ", ")))
-  }
-  label_text <- paste(label_lines, collapse = "\n")
   
   p <- ggplot(cum_data, aes(x = time, y = cumulative, color = group, linetype = group)) +
     geom_line(linewidth = 1.5) +
@@ -207,13 +196,6 @@ create_cumulative_plot <- function(aj_result, title_text, y_label, y_max = NULL)
       panel.grid.minor.y = element_blank(),
       plot.margin = margin(15, 15, 15, 15)
     )
-  
-  # 添加数值标注在图右下角
-  p <- p + annotate("text", x = 7.5, y = y_max * 0.35, 
-                    label = label_text, 
-                    size = 3.0, hjust = 0, vjust = 0,
-                    color = "black", fontface = "plain",
-                    lineheight = 1.3)
   
   return(p)
 }
